@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Nome": "sample string 2",
+    "Abreviatura": "sample string 3",
+    "Tipo": "sample string 4",
+    "CEP": "sample string 5",
+    "Bairro": {
+      "Id": 1,
+      "Nome": "sample string 2",
+      "Cidade": {
+        "Id": 1,
+        "Nome": "sample string 2",
+        "Latitude": 3.1,
+        "Longitude": 4.1,
+        "UF": "sample string 5",
+        "CEP": "sample string 6",
+        "CodigoIBGE": "sample string 7"
+      }
+    }
+  },
+  {
+    "Id": 1,
+    "Nome": "sample string 2",
+    "Abreviatura": "sample string 3",
+    "Tipo": "sample string 4",
+    "CEP": "sample string 5",
+    "Bairro": {
+      "Id": 1,
+      "Nome": "sample string 2",
+      "Cidade": {
+        "Id": 1,
+        "Nome": "sample string 2",
+        "Latitude": 3.1,
+        "Longitude": 4.1,
+        "UF": "sample string 5",
+        "CEP": "sample string 6",
+        "CodigoIBGE": "sample string 7"
+      }
+    }
+  },
+  {
+    "Id": 1,
+    "Nome": "sample string 2",
+    "Abreviatura": "sample string 3",
+    "Tipo": "sample string 4",
+    "CEP": "sample string 5",
+    "Bairro": {
+      "Id": 1,
+      "Nome": "sample string 2",
+      "Cidade": {
+        "Id": 1,
+        "Nome": "sample string 2",
+        "Latitude": 3.1,
+        "Longitude": 4.1,
+        "UF": "sample string 5",
+        "CEP": "sample string 6",
+        "CodigoIBGE": "sample string 7"
+      }
+    }
+  }
+]
